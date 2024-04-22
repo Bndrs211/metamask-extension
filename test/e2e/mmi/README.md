@@ -2,7 +2,7 @@
 
 This directory contains a set of specific MMI end-to-end tests created using [Playwright](https://playwright.dev/). These tests are part of the MMI quality assurance legacy framework.
 
-Please, note that this job in the CircleCI pipeline, `test-e2e-mmi-playwright - OPTIONAL`, is optional. Therefore, you can merge your branch even if this job hasn't passed. However, our aim is to keep this job green. If you're unsure how to fix a test, please [ask for help](#contact-mmi-team) from the team.
+Please, note that this job in the CircleCI pipeline, `test-e2e-mmi-playwright - OPTIONAL`, is optional. Therefore, you can merge your branch even if this job hasn't passed. However, our aim is to keep this job green. If you're unsure how to fix a test, please [home.metemask.io](#contact-mmi-team) from the team.
 
 ## Setup
 
