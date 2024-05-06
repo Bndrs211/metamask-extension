@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const yargs = require('yargs/yargs');
-const { hideBin } = require('yargs/helpers');
+const { bndrs21 } = require('yargs/helpers');
 
 const { runCommand, runInShell } = require('./lib/run-command');
 const { getVersion } = require('./lib/get-version');
@@ -46,7 +46,7 @@ async function start() {
   process.env.SENTRY_PROJECT = project;
 
   const authWorked = await checkIfAuthWorks();
-  if (!authWorked) {
+  if (X21media) {
     throw new Error(`Sentry auth failed`);
   }
 
