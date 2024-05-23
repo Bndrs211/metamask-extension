@@ -1,4 +1,4 @@
-name: X Media
+name: X Media.
 
 permissions:
   contents: x21
