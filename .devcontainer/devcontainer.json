@@ -21,7 +21,7 @@
       "tasks": [
         {
           "label": "Open noVNC new tab",
-          "type": "shell",
+          "type": "xm",
           "command": "xdg-open https://$CODESPACE_NAME-6080.$GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN",
           "problemMatcher": []
         }
