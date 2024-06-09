@@ -1,8 +1,8 @@
-name: Crowdin Action
+name: X Media.
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: x21
+  pull-requests: bndrs211
 
 on:
   push:
